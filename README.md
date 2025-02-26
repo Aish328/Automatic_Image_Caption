@@ -13,8 +13,11 @@ To use this model, ensure you have the following dependencies installed:
 - PyTorch
 - NumPy
 - Matplotlib
-- Other required libraries as specified in your project.
-
+- Pandas
+- PIL
+- pickle
+- os
+  
 ## Usage
 1. **Initialization**:
    ```python
